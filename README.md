@@ -12,31 +12,30 @@ This project is a marketing landing page for a premium dog nutrition product. It
 ## 📁 Project Structure
 ```
     gemcommerce-technical-task/
-    ├── client/
-    │   ├── public/              # Static assets
-    │   ├── src/
-    │   │   ├── assets/          # Images and media files
-    │   │   │   └── images/      # All image assets
-    │   │   ├── components/      # React components
-    │   │   │   ├── Card.tsx     # Card section component
-    │   │   │   ├── Feature.tsx  # Reusable feature item
-    │   │   │   ├── Feeds.tsx    # Feeds section
-    │   │   │   ├── Foundation.tsx # Foundation section with stats
-    │   │   │   └── Hero.tsx     # Hero section with CTA
-    │   │   ├── types/           # TypeScript type definitions
-    │   │   │   └── index.ts     # Shared interfaces
-    │   │   ├── utils/           # Utility functions
-    │   │   │   └── index.ts     # Asset exports
-    │   │   ├── App.tsx          # Main app component
-    │   │   ├── index.css        # Global styles
-    │   │   └── main.tsx         # Entry point
-    │   ├── .gitignore
-    │   ├── eslint.config.js
-    │   ├── index.html
-    │   ├── package.json
-    │   ├── postcss.config.js
-    │   ├── README.md
-    │   └── tailwind.config.js
+       ├── public/              # Static assets
+       ├── src/
+       │   ├── assets/          # Images and media files
+       │   │   └── images/      # All image assets
+       │   ├── components/      # React components
+       │   │   ├── Card.tsx     # Card section component
+       │   │   ├── Feature.tsx  # Reusable feature item
+       │   │   ├── Feeds.tsx    # Feeds section
+       │   │   ├── Foundation.tsx # Foundation section with stats
+       │   │   └── Hero.tsx     # Hero section with CTA
+       │   ├── types/           # TypeScript type definitions
+       │   │   └── index.ts     # Shared interfaces
+       │   ├── utils/           # Utility functions
+       │   │   └── index.ts     # Asset exports
+       │   ├── App.tsx          # Main app component
+       │   ├── index.css        # Global styles
+       │   └── main.tsx         # Entry point
+       ├── .gitignore
+       ├── eslint.config.js
+       ├── index.html
+       ├── package.json
+       ├── postcss.config.js
+       ├── README.md
+       └── tailwind.config.js
 ```
 
 ## 🧩 Components
@@ -88,7 +87,7 @@ This project is a marketing landing page for a premium dog nutrition product. It
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd product-page
+cd client
 ```
 
 2. Install dependencies:
