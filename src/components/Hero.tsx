@@ -1,3 +1,4 @@
+import { CheckedSvg } from '../assets/images/svg/CheckedSvg.js'
 import { assets } from '../utils'
 import Feature from './Feature.jsx'
 
@@ -59,7 +60,10 @@ const Hero = () => {
                     </button>
 
                     <div className="mt-6 flex flex-col md:flex-row items-center justify-center gap-4 text-sm text-gray-600">
-                        <span>✔ 30-day money back guarantee</span>
+                        <div className='flex gap-2 items-center'>
+                            <CheckedSvg />
+                            <span>30-day money back guarantee</span>
+                        </div>
 
                         <div className="flex gap-2 font-semibold text-gray-700">
                             <img src={assets.paypal} alt='paypal' className='w-14 h-8' />
