@@ -1,6 +1,6 @@
 This project is a marketing landing page for a premium dog nutrition product. It showcases the product's unique selling points, nutritional benefits, and scientific backing through a clean, engaging user interface. The design focuses on converting visitors into customers through compelling copy, statistical data, and clear calls-to-action.
 
-<img src="https://res.cloudinary.com/dhdcmkuhx/image/upload/v1772523422/Screenshot_2026-03-03_at_08.36.03_z4sgfs.png" alt="homepage" width="100%" height="auto">
+<img src="https://res.cloudinary.com/dhdcmkuhx/image/upload/v1772542723/Screenshot_2026-03-03_at_13.58.05_fl7lbe.png" alt="homepage" width="100%" height="auto">
 
 ## 🛠 Tech Stack
     React 18 - UI Library
